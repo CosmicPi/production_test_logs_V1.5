@@ -1,0 +1,1001 @@
+Ev,00603.1224,E,1,7,2.19,448.6,M,48.2,M,,*56
+ratureC: 25.000000;
+$GNZDA,002902.000,11,01,2018,,*4B
+$GPGGA,002902.000,4613.9896,N,00603.1224,E,1,7,2.19,448.6,M,48.2,M,,*56
+INFO: Setting HV 1&2 to: 129
+Detector threshold: 1100
+Detector setup finished
+INFO: Sensor setup complete
+INFO: Running
+Pressure: 966.743408;
+Altitude: 394.530701;
+TemperatureCBaro: 27.364582;
+AccelX: -0.204710;
+AccelY: -0.111334;
+AccelZ: 9.595056;
+MagX: 0.054445;
+MagY: -0.241951;
+MagZ: 0.202155;
+TemperatureCHumid: 24.750753;
+Humidity: 34.390015;
+TemperatureC: 25.000000;
+$PGCMD,33,0*6D$PMTK001,314,3*36
+$PMTK001,220,3*30
+$PMTK705,AXN_3.8_3333_16042100,0006,Quectel-L76,1.0*0B
+Event: sub second micros:18703/42000000; Event Count:0
+PPS: GPS lock:1;
+$GNZDA,002903.000,11,01,2018,,*4A
+$GPGGA,002903.000,4613.9896,N,00603.1224,E,1,7,2.19,448.6,M,48.2,M,,*57
+Pressure: 966.716309;
+Altitude: 394.765198;
+TemperatureCBaro: 27.375000;
+AccelX: -0.149642;
+AccelY: -0.076018;
+AccelZ: 9.590866;
+MagX: 0.053591;
+MagY: -0.243049;
+MagZ: 0.203253;
+TemperatureCHumid: 24.761480;
+Humidity: 34.390015;
+TemperatureC: 25.000000;
+Event: sub second micros:36342251/41998399; Event Count:1
+PPS: GPS lock:1;
+$GNZDA,002904.000,11,01,2018,,*4D
+$GPGGA,002904.000,4613.9896,N,00603.1224,E,1,7,2.19,448.6,M,48.2,M,,*50
+Pressure: 966.657715;
+Altitude: 395.271790;
+TemperatureCBaro: 27.389584;
+AccelX: -0.164606;
+AccelY: -0.077215;
+AccelZ: 9.604034;
+MagX: 0.053835;
+MagY: -0.242683;
+MagZ: 0.201910;
+TemperatureCHumid: 24.750753;
+Humidity: 34.390015;
+TemperatureC: 25.000000;
+Event: sub second micros:131189/41998399; Event Count:2
+Event: sub second micros:25120261/41998399; Event Count:3
+Event: sub second micros:40729151/41998399; Event Count:4
+PPS: GPS lock:1;
+$GNZDA,002905.000,11,01,2018,,*4C
+$GPGGA,002905.000,4613.9896,N,00603.1224,E,1,7,2.19,448.6,M,48.2,M,,*51
+Pressure: 966.708984;
+Altitude: 394.828369;
+TemperatureCBaro: 27.397917;
+AccelX: -0.150839;
+AccelY: -0.077814;
+AccelZ: 9.577698;
+MagX: 0.054201;
+MagY: -0.241462;
+MagZ: 0.202643;
+TemperatureCHumid: 24.772200;
+Humidity: 34.374756;
+TemperatureC: 25.000000;
+Event: sub second micros:14961896/41998398; Event Count:5
+Event: sub second micros:21205605/41998398; Event Count:6
+Event: sub second micros:28328916/41998398; Event Count:7
+PPS: GPS lock:1;
+$GNZDA,002906.000,11,01,2018,,*4F
+$GPGGA,002906.000,4613.9896,N,00603.1224,E,1,7,2.19,448.6,M,48.2,M,,*52
+Pressure: 966.677246;
+Altitude: 395.103088;
+TemperatureCBaro: 27.406250;
+AccelX: -0.143058;
+AccelY: -0.061653;
+AccelZ: 9.592063;
+MagX: 0.053224;
+MagY: -0.242927;
+MagZ: 0.206305;
+TemperatureCHumid: 24.772200;
+Humidity: 34.382385;
+TemperatureC: 25.000000;
+Event: sub second micros:15053782/41998398; Event Count:8
+Event: sub second micros:20324601/41998398; Event Count:9
+Event: sub second micros:32014912/41998398; Event Count:10
+PPS: GPS lock:1;
+$GNZDA,002907.000,11,01,2018,,*4E
+$GPGGA,002907.000,4613.9896,N,00603.1224,E,1,7,2.19,448.6,M,48.2,M,,*53
+Pressure: 966.692627;
+Altitude: 394.969910;
+TemperatureCBaro: 27.416668;
+AccelX: -0.179571;
+AccelY: -0.053871;
+AccelZ: 9.615407;
+MagX: 0.053835;
+MagY: -0.242927;
+MagZ: 0.203009;
+TemperatureCHumid: 24.772200;
+Humidity: 34.374756;
+TemperatureC: 25.000000;
+Event: sub second micros:8957894/41998398; Event Count:11
+PPS: GPS lock:1;
+$GNZDA,002908.000,11,01,2018,,*41
+$GPGGA,002908.000,4613.9896,N,00603.1224,E,1,7,2.19,448.6,M,48.2,M,,*5C
+Pressure: 966.687256;
+Altitude: 395.016388;
+TemperatureCBaro: 27.422916;
+AccelX: -0.170592;
+AccelY: -0.056864;
+AccelZ: 9.610619;
+MagX: 0.053713;
+MagY: -0.242805;
+MagZ: 0.204840;
+TemperatureCHumid: 24.793653;
+Humidity: 34.351868;
+TemperatureC: 25.000000;
+PPS: GPS lock:1;
+$GNZDA,002909.000,11,01,2018,,*40
+$GPGGA,002909.000,4613.9896,N,00603.1224,E,1,7,2.19,448.6,M,48.2,M,,*5D
+Pressure: 966.690186;
+Altitude: 394.990814;
+TemperatureCBaro: 27.429167;
+AccelX: -0.148445;
+AccelY: -0.071828;
+AccelZ: 9.606429;
+MagX: 0.053713;
+MagY: -0.242683;
+MagZ: 0.202521;
+TemperatureCHumid: 24.793653;
+Humidity: 34.351868;
+TemperatureC: 25.000000;
+Event: sub second micros:34397432/41998398; Event Count:12
+Event: sub second micros:35542492/41998398; Event Count:13
+PPS: GPS lock:1;
+$GNZDA,002910.000,11,01,2018,,*48
+$GPGGA,002910.000,4613.9896,N,00603.1224,E,1,7,2.19,448.6,M,48.2,M,,*55
+Pressure: 966.712646;
+Altitude: 394.796539;
+TemperatureCBaro: 27.445833;
+AccelX: -0.169395;
+AccelY: -0.057463;
+AccelZ: 9.595654;
+MagX: 0.054567;
+MagY: -0.243294;
+MagZ: 0.203497;
+TemperatureCHumid: 24.836554;
+Humidity: 34.328979;
+TemperatureC: 25.000000;
+PPS: GPS lock:1;
+$GNZDA,002911.000,11,01,2018,,*49
+$GPGGA,002911.000,4613.9896,N,00603.1224,E,1,7,2.19,448.6,M,48.2,M,,*54
+Pressure: 966.713379;
+Altitude: 394.790253;
+TemperatureCBaro: 27.452084;
+AccelX: -0.153234;
+AccelY: -0.077814;
+AccelZ: 9.592063;
+MagX: 0.054323;
+MagY: -0.241951;
+MagZ: 0.202765;
+TemperatureCHumid: 24.836554;
+Humidity: 34.328979;
+TemperatureC: 25.000000;
+PPS: GPS lock:1;
+$GNZDA,002912.000,11,01,2018,,*4A
+$GPGGA,002912.000,4613.9896,N,00603.1224,E,1,7,2.19,448.6,M,48.2,M,,*57
+Pressure: 966.682129;
+Altitude: 395.060791;
+TemperatureCBaro: 27.456249;
+AccelX: -0.174183;
+AccelY: -0.067040;
+AccelZ: 9.579494;
+MagX: 0.054201;
+MagY: -0.243294;
+MagZ: 0.203375;
+TemperatureCHumid: 24.847281;
+Humidity: 34.321350;
+TemperatureC: 25.000000;
+Event: sub second micros:26309932/41998397; Event Count:14
+Event: sub second micros:27542475/41998397; Event Count:15
+Event: sub second micros:37324404/41998397; Event Count:16
+PPS: GPS lock:1;
+$GNZDA,002913.000,11,01,2018,,*4B
+$GPGGA,002913.000,4613.9896,N,00603.1224,E,1,7,2.19,448.6,M,48.2,M,,*56
+Pressure: 966.719238;
+Altitude: 394.739594;
+TemperatureCBaro: 27.466667;
+AccelX: -0.161614;
+AccelY: -0.073025;
+AccelZ: 9.582486;
+MagX: 0.054079;
+MagY: -0.242561;
+MagZ: 0.202521;
+TemperatureCHumid: 24.836554;
+Humidity: 34.306091;
+TemperatureC: 25.000000;
+PPS: GPS lock:1;
+$GNZDA,002914.000,11,01,2018,,*4C
+$GPGGA,002914.000,4613.9896,N,00603.1224,E,1,7,2.19,448.6,M,48.2,M,,*51
+Pressure: 966.690186;
+Altitude: 394.990814;
+TemperatureCBaro: 27.475000;
+AccelX: -0.150241;
+AccelY: -0.074223;
+AccelZ: 9.603436;
+MagX: 0.053346;
+MagY: -0.242683;
+MagZ: 0.203497;
+TemperatureCHumid: 24.868727;
+Humidity: 34.298462;
+TemperatureC: 25.000000;
+Event: sub second micros:9107057/41998396; Event Count:17
+PPS: GPS lock:1;
+$GNZDA,002915.000,11,01,2018,,*4D
+$GPGGA,002915.000,4613.9896,N,00603.1224,E,1,7,2.25,448.6,M,48.2,M,,*5F
+Pressure: 966.712158;
+Altitude: 394.800690;
+TemperatureCBaro: 27.485416;
+AccelX: -0.168198;
+AccelY: -0.065244;
+AccelZ: 9.589070;
+MagX: 0.052980;
+MagY: -0.243294;
+MagZ: 0.202643;
+TemperatureCHumid: 24.890181;
+Humidity: 34.275574;
+TemperatureC: 25.000000;
+PPS: GPS lock:1;
+$GNZDA,002916.000,11,01,2018,,*4E
+$GPGGA,002916.000,4613.9896,N,00603.1224,E,1,7,2.19,448.6,M,48.2,M,,*53
+Pressure: 966.670410;
+Altitude: 395.162109;
+TemperatureCBaro: 27.495834;
+AccelX: -0.163409;
+AccelY: -0.068835;
+AccelZ: 9.600443;
+MagX: 0.052126;
+MagY: -0.241462;
+MagZ: 0.204352;
+TemperatureCHumid: 24.900900;
+Humidity: 34.267944;
+TemperatureC: 25.000000;
+Event: sub second micros:29232508/41998396; Event Count:18
+Event: sub second micros:34116782/41998396; Event Count:19
+PPS: GPS lock:1;
+$GNZDA,002917.000,11,01,2018,,*4F
+$GPGGA,002917.000,4613.9896,N,00603.1224,E,1,7,2.19,448.6,M,48.2,M,,*52
+Pressure: 966.668945;
+Altitude: 395.174652;
+TemperatureCBaro: 27.500000;
+AccelX: -0.141861;
+AccelY: -0.080208;
+AccelZ: 9.605830;
+MagX: 0.053713;
+MagY: -0.241951;
+MagZ: 0.202643;
+TemperatureCHumid: 24.900900;
+Humidity: 34.252686;
+TemperatureC: 25.000000;
+PPS: GPS lock:1;
+$GNZDA,002918.000,11,01,2018,,*40
+$GPGGA,002918.000,4613.9896,N,00603.1224,E,1,7,2.19,448.6,M,48.2,M,,*5D
+Pressure: 966.712402;
+Altitude: 394.798615;
+TemperatureCBaro: 27.512501;
+AccelX: -0.161614;
+AccelY: -0.060455;
+AccelZ: 9.593859;
+MagX: 0.053224;
+MagY: -0.242927;
+MagZ: 0.203864;
+TemperatureCHumid: 24.911627;
+Humidity: 34.260315;
+TemperatureC: 25.000000;
+Event: sub second micros:12453514/41998395; Event Count:20
+Event: sub second micros:20885379/41998395; Event Count:21
+PPS: GPS lock:1;
+$GNZDA,002919.000,11,01,2018,,*41
+$GPGGA,002919.000,4613.9896,N,00603.1224,E,1,7,2.19,448.6,M,48.2,M,,*5C
+Pressure: 966.650635;
+Altitude: 395.332886;
+TemperatureCBaro: 27.516666;
+AccelX: -0.165804;
+AccelY: -0.080208;
+AccelZ: 9.595654;
+MagX: 0.052980;
+MagY: -0.242805;
+MagZ: 0.200568;
+TemperatureCHumid: 24.933081;
+Humidity: 34.229797;
+TemperatureC: 25.000000;
+Event: sub second micros:6392797/41998396; Event Count:22
+PPS: GPS lock:1;
+$GNZDA,002920.000,11,01,2018,,*4B
+$GPGGA,002920.000,4613.9896,N,00603.1224,E,1,7,2.19,448.6,M,48.2,M,,*56
+Pressure: 966.687744;
+Altitude: 395.012207;
+TemperatureCBaro: 27.527084;
+AccelX: -0.156226;
+AccelY: -0.077215;
+AccelZ: 9.584880;
+MagX: 0.054079;
+MagY: -0.242927;
+MagZ: 0.203742;
+TemperatureCHumid: 24.922354;
+Humidity: 34.229797;
+TemperatureC: 25.000000;
+PPS: GPS lock:1;
+$GNZDA,002921.000,11,01,2018,,*4A
+$GPGGA,002921.000,4613.9896,N,00603.1224,E,1,7,2.19,448.6,M,48.2,M,,*57
+Pressure: 966.657715;
+Altitude: 395.271790;
+TemperatureCBaro: 27.535416;
+AccelX: -0.156825;
+AccelY: -0.074821;
+AccelZ: 9.608225;
+MagX: 0.053591;
+MagY: -0.242195;
+MagZ: 0.201422;
+TemperatureCHumid: 24.954527;
+Humidity: 34.214539;
+TemperatureC: 25.000000;
+PPS: GPS lock:1;
+$GNZDA,002922.000,11,01,2018,,*49
+$GPGGA,002922.000,4613.9896,N,00603.1224,E,1,7,2.20,448.6,M,48.2,M,,*5E
+Pressure: 966.757324;
+Altitude: 394.410583;
+TemperatureCBaro: 27.549999;
+AccelX: -0.181965;
+AccelY: -0.063448;
+AccelZ: 9.601042;
+MagX: 0.053224;
+MagY: -0.242805;
+MagZ: 0.204474;
+TemperatureCHumid: 24.965254;
+Humidity: 34.206909;
+TemperatureC: 25.000000;
+PPS: GPS lock:1;
+$GNZDA,002923.000,11,01,2018,,*48
+$GPGGA,002923.000,4613.9896,N,00603.1224,E,1,7,2.19,448.6,M,48.2,M,,*55
+Pressure: 966.596680;
+Altitude: 395.799805;
+TemperatureCBaro: 27.556250;
+AccelX: -0.148445;
+AccelY: -0.065244;
+AccelZ: 9.574106;
+MagX: 0.054567;
+MagY: -0.241462;
+MagZ: 0.202155;
+TemperatureCHumid: 24.975981;
+Humidity: 34.199280;
+TemperatureC: 25.000000;
+PPS: GPS lock:1;
+$GNZDA,002924.000,11,01,2018,,*4F
+$GPGGA,002924.000,4613.9896,N,00603.1224,E,1,7,2.19,448.6,M,48.2,M,,*52
+Pressure: 966.713135;
+Altitude: 394.792358;
+TemperatureCBaro: 27.568750;
+AccelX: -0.165804;
+AccelY: -0.055667;
+AccelZ: 9.593859;
+MagX: 0.054933;
+MagY: -0.242805;
+MagZ: 0.206427;
+TemperatureCHumid: 24.997427;
+Humidity: 34.176392;
+TemperatureC: 25.000000;
+Event: sub second micros:17796428/41998394; Event Count:23
+Event: sub second micros:33615663/41998394; Event Count:24
+PPS: GPS lock:1;
+$GNZDA,002925.000,11,01,2018,,*4E
+$GPGGA,002925.000,4613.9896,N,00603.1224,E,1,7,2.19,448.6,M,48.2,M,,*53
+Pressure: 966.673584;
+Altitude: 395.134430;
+TemperatureCBaro: 27.575001;
+AccelX: -0.155029;
+AccelY: -0.061054;
+AccelZ: 9.583084;
+MagX: 0.053835;
+MagY: -0.242195;
+MagZ: 0.202765;
+TemperatureCHumid: 25.008154;
+Humidity: 34.153503;
+TemperatureC: 26.000000;
+Event: sub second micros:6958538/41998394; Event Count:25
+Event: sub second micros:35554655/41998394; Event Count:26
+PPS: GPS lock:1;
+$GNZDA,002926.000,11,01,2018,,*4D
+$GPGGA,002926.000,4613.9896,N,00603.1224,E,1,7,2.19,448.6,M,48.2,M,,*50
+Pressure: 966.651855;
+Altitude: 395.322449;
+TemperatureCBaro: 27.583332;
+AccelX: -0.155628;
+AccelY: -0.065843;
+AccelZ: 9.589669;
+MagX: 0.054201;
+MagY: -0.244758;
+MagZ: 0.203864;
+TemperatureCHumid: 25.008154;
+Humidity: 34.145874;
+TemperatureC: 26.000000;
+Event: sub second micros:9935686/41998394; Event Count:27
+Event: sub second micros:13207348/41998394; Event Count:28
+Event: sub second micros:36998939/41998394; Event Count:29
+PPS: GPS lock:1;
+$GNZDA,002927.000,11,01,2018,,*4C
+$GPGGA,002927.000,4613.9896,N,00603.1224,E,1,7,2.19,448.6,M,48.2,M,,*51
+Pressure: 966.690186;
+Altitude: 394.990814;
+TemperatureCBaro: 27.595833;
+AccelX: -0.155628;
+AccelY: -0.079610;
+AccelZ: 9.572909;
+MagX: 0.053835;
+MagY: -0.242561;
+MagZ: 0.202521;
+TemperatureCHumid: 25.051054;
+Humidity: 34.122986;
+TemperatureC: 26.000000;
+Event: sub second micros:2725701/41998394; Event Count:30
+Event: sub second micros:22437065/41998394; Event Count:31
+Event: sub second micros:28508842/41998394; Event Count:32
+PPS: GPS lock:1;
+$GNZDA,002928.000,11,01,2018,,*43
+$GPGGA,002928.000,4613.9896,N,00603.1224,E,1,7,2.19,448.6,M,48.2,M,,*5E
+Pressure: 966.696289;
+Altitude: 394.938049;
+TemperatureCBaro: 27.604168;
+AccelX: -0.163409;
+AccelY: -0.061653;
+AccelZ: 9.587275;
+MagX: 0.054567;
+MagY: -0.242561;
+MagZ: 0.203864;
+TemperatureCHumid: 25.029608;
+Humidity: 34.115356;
+TemperatureC: 26.000000;
+Event: sub second micros:35006517/41998393; Event Count:33
+PPS: GPS lock:1;
+$GNZDA,002929.000,11,01,2018,,*42
+$GPGGA,002929.000,4613.9896,N,00603.1224,E,1,7,2.19,448.6,M,48.2,M,,*5F
+Pressure: 966.710205;
+Altitude: 394.817932;
+TemperatureCBaro: 27.612499;
+AccelX: -0.163409;
+AccelY: -0.059857;
+AccelZ: 9.583084;
+MagX: 0.054445;
+MagY: -0.243171;
+MagZ: 0.198981;
+TemperatureCHumid: 25.040327;
+Humidity: 34.100098;
+TemperatureC: 26.000000;
+Event: sub second micros:4964291/41998393; Event Count:34
+PPS: GPS lock:1;
+$GNZDA,002930.000,11,01,2018,,*4A
+$GPGGA,002930.000,4613.9896,N,00603.1224,E,1,7,2.20,448.6,M,48.2,M,,*5D
+Pressure: 966.696777;
+Altitude: 394.933868;
+TemperatureCBaro: 27.622917;
+AccelX: -0.144854;
+AccelY: -0.078412;
+AccelZ: 9.592063;
+MagX: 0.053468;
+MagY: -0.243049;
+MagZ: 0.203375;
+TemperatureCHumid: 25.051054;
+Humidity: 34.092468;
+TemperatureC: 26.000000;
+Event: sub second micros:13570644/41998393; Event Count:35
+Event: sub second micros:17522607/41998393; Event Count:36
+PPS: GPS lock:1;
+$GNZDA,002931.000,11,01,2018,,*4B
+$GPGGA,002931.000,4613.9896,N,00603.1224,E,1,7,2.19,448.6,M,48.2,M,,*56
+Pressure: 966.692139;
+Altitude: 394.974091;
+TemperatureCBaro: 27.635418;
+AccelX: -0.170592;
+AccelY: -0.050878;
+AccelZ: 9.580091;
+MagX: 0.053713;
+MagY: -0.242805;
+MagZ: 0.201422;
+TemperatureCHumid: 25.061781;
+Humidity: 34.084839;
+TemperatureC: 26.000000;
+Event: sub second micros:6522322/41998393; Event Count:37
+PPS: GPS lock:1;
+$GNZDA,002932.000,11,01,2018,,*48
+$GPGGA,002932.000,4613.9896,N,00603.1224,E,1,7,2.19,448.6,M,48.2,M,,*55
+Pressure: 966.763672;
+Altitude: 394.355225;
+TemperatureCBaro: 27.643749;
+AccelX: -0.147846;
+AccelY: -0.058061;
+AccelZ: 9.596253;
+MagX: 0.053591;
+MagY: -0.242195;
+MagZ: 0.204962;
+TemperatureCHumid: 25.072508;
+Humidity: 34.054321;
+TemperatureC: 26.000000;
+Event: sub second micros:11942713/41998393; Event Count:38
+PPS: GPS lock:1;
+$GNZDA,002933.000,11,01,2018,,*49
+$GPGGA,002933.000,4613.9896,N,00603.1224,E,1,7,2.19,448.6,M,48.2,M,,*54
+Pressure: 966.750732;
+Altitude: 394.467529;
+TemperatureCBaro: 27.652084;
+AccelX: -0.150839;
+AccelY: -0.080208;
+AccelZ: 9.589070;
+MagX: 0.054933;
+MagY: -0.242073;
+MagZ: 0.201910;
+TemperatureCHumid: 25.104681;
+Humidity: 34.039062;
+TemperatureC: 26.000000;
+Event: sub second micros:3611706/41998392; Event Count:39
+Event: sub second micros:12719930/41998392; Event Count:40
+PPS: GPS lock:1;
+$GNZDA,002934.000,11,01,2018,,*4E
+$GPGGA,002934.000,4613.9896,N,00603.1224,E,1,7,2.20,448.6,M,48.2,M,,*59
+Pressure: 966.690674;
+Altitude: 394.986633;
+TemperatureCBaro: 27.662500;
+AccelX: -0.158022;
+AccelY: -0.069434;
+AccelZ: 9.605830;
+MagX: 0.051881;
+MagY: -0.242805;
+MagZ: 0.204840;
+TemperatureCHumid: 25.104681;
+Humidity: 34.046692;
+TemperatureC: 26.000000;
+Event: sub second micros:32264861/41998392; Event Count:41
+Event: sub second micros:40573384/41998392; Event Count:42
+PPS: GPS lock:1;
+$GNZDA,002935.000,11,01,2018,,*4F
+$GPGGA,002935.000,4613.9896,N,00603.1224,E,1,7,2.19,448.6,M,48.2,M,,*52
+Pressure: 966.661133;
+Altitude: 395.242004;
+TemperatureCBaro: 27.666668;
+AccelX: -0.162811;
+AccelY: -0.074821;
+AccelZ: 9.630372;
+MagX: 0.052858;
+MagY: -0.242317;
+MagZ: 0.202887;
+TemperatureCHumid: 25.115408;
+Humidity: 34.023804;
+TemperatureC: 26.000000;
+Event: sub second micros:22481527/41998392; Event Count:43
+Event: sub second micros:41581811/41998392; Event Count:44
+PPS: GPS lock:1;
+$GNZDA,002936.000,11,01,2018,,*4C
+$GPGGA,002936.000,4613.9896,N,00603.1224,E,1,7,2.20,448.6,M,48.2,M,,*5B
+Pressure: 966.681152;
+Altitude: 395.069153;
+TemperatureCBaro: 27.672916;
+AccelX: -0.168198;
+AccelY: -0.074223;
+AccelZ: 9.598049;
+MagX: 0.052858;
+MagY: -0.242317;
+MagZ: 0.205206;
+TemperatureCHumid: 25.136854;
+Humidity: 34.023804;
+TemperatureC: 26.000000;
+PPS: GPS lock:1;
+$GNZDA,002937.000,11,01,2018,,*4D
+$GPGGA,002937.000,4613.9896,N,00603.1224,E,1,7,2.19,448.6,M,48.2,M,,*50
+Pressure: 966.668457;
+Altitude: 395.178802;
+TemperatureCBaro: 27.681250;
+AccelX: -0.160416;
+AccelY: -0.080208;
+AccelZ: 9.590267;
+MagX: 0.054567;
+MagY: -0.244270;
+MagZ: 0.200812;
+TemperatureCHumid: 25.136854;
+Humidity: 33.993286;
+TemperatureC: 26.000000;
+PPS: GPS lock:1;
+$GNZDA,002938.000,11,01,2018,,*42
+$GPGGA,002938.000,4613.9896,N,00603.1224,E,1,7,2.20,448.6,M,48.2,M,,*55
+Pressure: 966.676025;
+Altitude: 395.113525;
+TemperatureCBaro: 27.695833;
+AccelX: -0.158022;
+AccelY: -0.076018;
+AccelZ: 9.582486;
+MagX: 0.053224;
+MagY: -0.242195;
+MagZ: 0.204962;
+TemperatureCHumid: 25.158308;
+Humidity: 33.962769;
+TemperatureC: 26.000000;
+PPS: GPS lock:1;
+$GNZDA,002939.000,11,01,2018,,*43
+$GPGGA,002939.000,4613.9896,N,00603.1224,E,1,7,2.19,448.6,M,48.2,M,,*5E
+Pressure: 966.669922;
+Altitude: 395.166290;
+TemperatureCBaro: 27.702084;
+AccelX: -0.156825;
+AccelY: -0.067040;
+AccelZ: 9.603436;
+MagX: 0.053713;
+MagY: -0.242195;
+MagZ: 0.204596;
+TemperatureCHumid: 25.147581;
+Humidity: 33.947510;
+TemperatureC: 26.000000;
+Event: sub second micros:6481197/41998391; Event Count:45
+PPS: GPS lock:1;
+$GNZDA,002940.000,11,01,2018,,*4D
+$GPGGA,002940.000,4613.9896,N,00603.1224,E,1,8,1.34,448.6,M,48.2,M,,*53
+Pressure: 966.678223;
+Altitude: 395.094208;
+TemperatureCBaro: 27.710417;
+AccelX: -0.167599;
+AccelY: -0.071230;
+AccelZ: 9.596253;
+MagX: 0.053468;
+MagY: -0.242195;
+MagZ: 0.204718;
+TemperatureCHumid: 25.147581;
+Humidity: 33.947510;
+TemperatureC: 26.000000;
+Event: sub second micros:11256148/41998391; Event Count:46
+PPS: GPS lock:1;
+$GNZDA,002941.000,11,01,2018,,*4C
+$GPGGA,002941.000,4613.9896,N,00603.1224,E,1,8,1.34,448.6,M,48.2,M,,*52
+Pressure: 966.659912;
+Altitude: 395.252991;
+TemperatureCBaro: 27.720833;
+AccelX: -0.159818;
+AccelY: -0.074223;
+AccelZ: 9.583683;
+MagX: 0.053468;
+MagY: -0.241951;
+MagZ: 0.203009;
+TemperatureCHumid: 25.179754;
+Humidity: 33.924622;
+TemperatureC: 26.000000;
+PPS: GPS lock:1;
+$GNZDA,002942.000,11,01,2018,,*4F
+$GPGGA,002942.000,4613.9896,N,00603.1224,E,1,8,1.34,448.6,M,48.2,M,,*51
+Pressure: 966.693359;
+Altitude: 394.963654;
+TemperatureCBaro: 27.729168;
+AccelX: -0.147248;
+AccelY: -0.068835;
+AccelZ: 9.566923;
+MagX: 0.053346;
+MagY: -0.242561;
+MagZ: 0.206061;
+TemperatureCHumid: 25.179754;
+Humidity: 33.909363;
+TemperatureC: 26.000000;
+Event: sub second micros:4596117/41998390; Event Count:47
+Event: sub second micros:24914607/41998390; Event Count:48
+PPS: GPS lock:1;
+$GNZDA,002943.000,11,01,2018,,*4E
+$GPGGA,002943.000,4613.9896,N,00603.1224,E,1,8,1.34,448.6,M,48.2,M,,*50
+Pressure: 966.715332;
+Altitude: 394.773560;
+TemperatureCBaro: 27.739582;
+AccelX: -0.166402;
+AccelY: -0.066441;
+AccelZ: 9.585479;
+MagX: 0.054201;
+MagY: -0.241585;
+MagZ: 0.202643;
+TemperatureCHumid: 25.211927;
+Humidity: 33.909363;
+TemperatureC: 26.000000;
+Event: sub second micros:13433705/41998391; Event Count:49
+Event: sub second micros:22089827/41998391; Event Count:50
+Event: sub second micros:27158197/41998391; Event Count:51
+Event: sub second micros:28179911/41998391; Event Count:52
+PPS: GPS lock:1;
+$GNZDA,002944.000,11,01,2018,,*49
+$GPGGA,002944.000,4613.9896,N,00603.1224,E,1,8,1.34,448.6,M,48.2,M,,*57
+Pressure: 966.696289;
+Altitude: 394.938049;
+TemperatureCBaro: 27.752083;
+AccelX: -0.165804;
+AccelY: -0.064645;
+AccelZ: 9.584282;
+MagX: 0.053591;
+MagY: -0.241096;
+MagZ: 0.204596;
+TemperatureCHumid: 25.222654;
+Humidity: 33.878845;
+TemperatureC: 26.000000;
+Event: sub second micros:1514796/41998389; Event Count:53
+PPS: GPS lock:1;
+$GNZDA,002945.000,11,01,2018,,*48
+$GPGGA,002945.000,4613.9896,N,00603.1224,E,1,8,1.34,448.6,M,48.2,M,,*56
+Pressure: 966.691406;
+Altitude: 394.980347;
+TemperatureCBaro: 27.754166;
+AccelX: -0.145452;
+AccelY: -0.055068;
+AccelZ: 9.571114;
+MagX: 0.053224;
+MagY: -0.242195;
+MagZ: 0.201788;
+TemperatureCHumid: 25.211927;
+Humidity: 33.878845;
+TemperatureC: 26.000000;
+PPS: GPS lock:1;
+$GNZDA,002946.000,11,01,2018,,*4B
+$GPGGA,002946.000,4613.9896,N,00603.1224,E,1,8,1.34,448.6,M,48.2,M,,*55
+Pressure: 966.689697;
+Altitude: 394.994995;
+TemperatureCBaro: 27.764584;
+AccelX: -0.201119;
+AccelY: -0.046090;
+AccelZ: 9.555551;
+MagX: 0.053713;
+MagY: -0.241462;
+MagZ: 0.203375;
+TemperatureCHumid: 25.244108;
+Humidity: 33.855957;
+TemperatureC: 26.000000;
+Event: sub second micros:20532656/41998390; Event Count:54
+PPS: GPS lock:1;
+$GNZDA,002947.000,11,01,2018,,*4A
+$GPGGA,002947.000,4613.9896,N,00603.1224,E,1,8,1.34,448.6,M,48.2,M,,*54
+Pressure: 966.640869;
+Altitude: 395.417480;
+TemperatureCBaro: 27.779167;
+AccelX: -0.172388;
+AccelY: -0.066441;
+AccelZ: 9.587873;
+MagX: 0.053468;
+MagY: -0.241707;
+MagZ: 0.201422;
+TemperatureCHumid: 25.265554;
+Humidity: 33.833069;
+TemperatureC: 26.000000;
+Event: sub second micros:4596774/41998389; Event Count:55
+Event: sub second micros:34986476/41998389; Event Count:56
+PPS: GPS lock:1;
+$GNZDA,002948.000,11,01,2018,,*45
+$GPGGA,002948.000,4613.9896,N,00603.1224,E,1,8,1.34,448.6,M,48.2,M,,*5B
+Pressure: 966.650391;
+Altitude: 395.334961;
+TemperatureCBaro: 27.783333;
+AccelX: -0.158621;
+AccelY: -0.067040;
+AccelZ: 9.592063;
+MagX: 0.052736;
+MagY: -0.241829;
+MagZ: 0.203497;
+TemperatureCHumid: 25.265554;
+Humidity: 33.825439;
+TemperatureC: 26.000000;
+PPS: GPS lock:1;
+$GNZDA,002949.000,11,01,2018,,*44
+$GPGGA,002949.000,4613.9896,N,00603.1224,E,1,8,1.34,448.6,M,48.2,M,,*5A
+Pressure: 966.657959;
+Altitude: 395.269684;
+TemperatureCBaro: 27.793751;
+AccelX: -0.172388;
+AccelY: -0.071828;
+AccelZ: 9.581887;
+MagX: 0.053713;
+MagY: -0.242073;
+MagZ: 0.202765;
+TemperatureCHumid: 25.297735;
+Humidity: 33.802551;
+TemperatureC: 26.000000;
+Event: sub second micros:14461373/41998390; Event Count:57
+Event: sub second micros:18065781/41998390; Event Count:58
+PPS: GPS lock:1;
+$GNZDA,002950.000,11,01,2018,,*4C
+$GPGGA,002950.000,4613.9896,N,00603.1224,E,1,8,1.34,448.6,M,48.2,M,,*52
+Pressure: 966.742920;
+Altitude: 394.534882;
+TemperatureCBaro: 27.802082;
+AccelX: -0.147248;
+AccelY: -0.087391;
+AccelZ: 9.556149;
+MagX: 0.051637;
+MagY: -0.241707;
+MagZ: 0.203864;
+TemperatureCHumid: 25.297735;
+Humidity: 33.802551;
+TemperatureC: 26.000000;
+PPS: GPS lock:1;
+$GNZDA,002951.000,11,01,2018,,*4D
+$GPGGA,002951.000,4613.9896,N,00603.1224,E,1,8,1.34,448.6,M,48.2,M,,*53
+Pressure: 966.666748;
+Altitude: 395.193451;
+TemperatureCBaro: 27.810417;
+AccelX: -0.146051;
+AccelY: -0.076617;
+AccelZ: 9.596851;
+MagX: 0.053591;
+MagY: -0.242073;
+MagZ: 0.203497;
+TemperatureCHumid: 25.319181;
+Humidity: 33.779663;
+TemperatureC: 26.000000;
+Event: sub second micros:2169777/41998389; Event Count:59
+Event: sub second micros:30820789/41998389; Event Count:60
+PPS: GPS lock:1;
+$GNZDA,002952.000,11,01,2018,,*4E
+$GPGGA,002952.000,4613.9896,N,00603.1224,E,1,8,1.34,448.6,M,48.2,M,,*50
+Pressure: 966.682373;
+Altitude: 395.058685;
+TemperatureCBaro: 27.820833;
+AccelX: -0.158022;
+AccelY: -0.082602;
+AccelZ: 9.572909;
+MagX: 0.053591;
+MagY: -0.242683;
+MagZ: 0.205084;
+TemperatureCHumid: 25.329908;
+Humidity: 33.764404;
+TemperatureC: 26.000000;
+Event: sub second micros:30694189/41998389; Event Count:61
+PPS: GPS lock:1;
+$GNZDA,002953.000,11,01,2018,,*4F
+$GPGGA,002953.000,4613.9896,N,00603.1224,E,1,8,1.34,448.6,M,48.2,M,,*51
+Pressure: 966.670410;
+Altitude: 395.162109;
+TemperatureCBaro: 27.835417;
+AccelX: -0.157424;
+AccelY: -0.062251;
+AccelZ: 9.598049;
+MagX: 0.053713;
+MagY: -0.241829;
+MagZ: 0.203375;
+TemperatureCHumid: 25.329908;
+Humidity: 33.733887;
+TemperatureC: 26.000000;
+PPS: GPS lock:1;
+$GNZDA,002954.000,11,01,2018,,*48
+$GPGGA,002954.000,4613.9896,N,00603.1224,E,1,8,1.34,448.6,M,48.2,M,,*56
+Pressure: 966.669922;
+Altitude: 395.166290;
+TemperatureCBaro: 27.841667;
+AccelX: -0.155029;
+AccelY: -0.065244;
+AccelZ: 9.598049;
+MagX: 0.053468;
+MagY: -0.242561;
+MagZ: 0.206305;
+TemperatureCHumid: 25.329908;
+Humidity: 33.726257;
+TemperatureC: 26.000000;
+Event: sub second micros:3773225/41998388; Event Count:62
+Event: sub second micros:21703642/41998388; Event Count:63
+Event: sub second micros:29307305/41998388; Event Count:64
+PPS: GPS lock:1;
+$GNZDA,002955.000,11,01,2018,,*49
+$GPGGA,002955.000,4613.9896,N,00603.1224,E,1,8,1.34,448.6,M,48.2,M,,*57
+Pressure: 966.703369;
+Altitude: 394.876953;
+TemperatureCBaro: 27.852083;
+AccelX: -0.167599;
+AccelY: -0.078412;
+AccelZ: 9.611217;
+MagX: 0.053957;
+MagY: -0.240608;
+MagZ: 0.202765;
+TemperatureCHumid: 25.351355;
+Humidity: 33.695740;
+TemperatureC: 26.000000;
+PPS: GPS lock:1;
+$GNZDA,002956.000,11,01,2018,,*4A
+$GPGGA,002956.000,4613.9896,N,00603.1224,E,1,8,1.34,448.6,M,48.2,M,,*54
+Pressure: 966.675537;
+Altitude: 395.117706;
+TemperatureCBaro: 27.862499;
+AccelX: -0.151438;
+AccelY: -0.062850;
+AccelZ: 9.577698;
+MagX: 0.053468;
+MagY: -0.242317;
+MagZ: 0.204962;
+TemperatureCHumid: 25.372808;
+Humidity: 33.680481;
+TemperatureC: 26.000000;
+Event: sub second micros:12170987/41998388; Event Count:65
+PPS: GPS lock:1;
+$GNZDA,002957.000,11,01,2018,,*4B
+$GPGGA,002957.000,4613.9896,N,00603.1224,E,1,8,1.34,448.6,M,48.2,M,,*55
+Pressure: 966.637451;
+Altitude: 395.446747;
+TemperatureCBaro: 27.870834;
+AccelX: -0.164008;
+AccelY: -0.074223;
+AccelZ: 9.557346;
+MagX: 0.052980;
+MagY: -0.240974;
+MagZ: 0.203131;
+TemperatureCHumid: 25.394255;
+Humidity: 33.665222;
+TemperatureC: 26.000000;
+Event: sub second micros:2012858/41998387; Event Count:66
+Event: sub second micros:13253520/41998387; Event Count:67
+Event: sub second micros:37810597/41998387; Event Count:68
+PPS: GPS lock:1;
+$GNZDA,002958.000,11,01,2018,,*44
+$GPGGA,002958.000,4613.9896,N,00603.1224,E,1,8,1.34,448.6,M,48.2,M,,*5A
+Pressure: 966.661133;
+Altitude: 395.242004;
+TemperatureCBaro: 27.872917;
+AccelX: -0.156226;
+AccelY: -0.070631;
+AccelZ: 9.582486;
+MagX: 0.052248;
+MagY: -0.241951;
+MagZ: 0.204962;
+TemperatureCHumid: 25.383535;
+Humidity: 33.649963;
+TemperatureC: 26.000000;
+PPS: GPS lock:1;
+$GNZDA,002959.000,11,01,2018,,*45
+$GPGGA,002959.000,4613.9896,N,00603.1224,E,1,8,1.34,448.6,M,48.2,M,,*5B
+Pressure: 966.693115;
+Altitude: 394.965729;
+TemperatureCBaro: 27.885418;
+AccelX: -0.159219;
+AccelY: -0.058061;
+AccelZ: 9.575303;
+MagX: 0.051881;
+MagY: -0.241951;
+MagZ: 0.203131;
+TemperatureCHumid: 25.394255;
+Humidity: 33.627075;
+TemperatureC: 26.000000;
+PPS: GPS lock:1;
+$GNZDA,003000.000,11,01,2018,,*41
+$GPGGA,003000.000,4613.9896,N,00603.1224,E,1,8,1.34,448.6,M,48.2,M,,*5F
+Pressure: 966.666504;
+Altitude: 395.195526;
+TemperatureCBaro: 27.891666;
+AccelX: -0.167001;
+AccelY: -0.071828;
+AccelZ: 9.583084;
+MagX: 0.052736;
+MagY: -0.242561;
+MagZ: 0.204596;
+TemperatureCHumid: 25.415709;
+Humidity: 33.619446;
+TemperatureC: 26.000000;
+Event: sub second micros:31303569/41998386; Event Count:69
+PPS: GPS lock:1;
+$GNZDA,003001.000,11,01,2018,,*40
+$GPGGA,003001.000,4613.9896,N,00603.1224,E,1,8,1.34,448.6,M,48.2,M,,*5E
+Pressure: 966.646729;
+Altitude: 395.366821;
+TemperatureCBaro: 27.904167;
+AccelX: -0.159219;
+AccelY: -0.077215;
+AccelZ: 9.562733;
+MagX: 0.052492;
+MagY: -0.242195;
+MagZ: 0.204352;
+TemperatureCHumid: 25.415709;
+Humidity: 33.604187;
+TemperatureC: 26.000000;
+Event: sub second micros:10736077/41998387; Event Count:70
+Event: sub second micros:14684372/41998387; Event Count:71
+Event: sub second micros:17750674/41998387; Event Count:72
+PPS: GPS lock:1;
+$GNZDA,003002.000,11,01,2018,,*43
+$GPGGA,003002.000,4613.9896,N,00603.1224,E,1,8,1.34,448.6,M,48.2,M,,*5D
+Pressure: 966.643555;
+Altitude: 395.393982;
+TemperatureCBaro: 27.912500;
+AccelX: -0.122108;
+AccelY: -0.132882;
+AccelZ: 9.582486;
+MagX: 0.053957;
+MagY: -0.243171;
+MagZ: 0.199103;
+TemperatureCHumid: 25.437155;
+Humidity: 33.588928;
+TemperatureC: 26.000000;
+PPS: GPS lock:1;
+Event: sub second micros:39627359/41998387; Event Count:73
+$GNZDA,003003.000,11,01,2018,,*42
+$GPGGA,003003.000,4613.9896,N,00603.1224,E,1,8,1.34,448.6,M,48.2,M,,*5C
